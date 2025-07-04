@@ -6,7 +6,7 @@ echo "Starting removal of specified applications..."
 
 # List of packages to remove (including wildcard patterns)
 packages=(
-  "firefox" "firefox-locale-en" "firerox-locale-en"
+  "firefox" "firefox-locale-en" "firefox-locale-en"
   "webapp-manager"
   "simple-scan"
   "drawing"
