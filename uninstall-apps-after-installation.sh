@@ -21,6 +21,8 @@ packages=(
   "onboard" "onboard-common"
   "seahorse"
   "warpinator"
+  "gnome-screenshot"
+  "xed*"
 )
 
 # Update package indexes before removal
